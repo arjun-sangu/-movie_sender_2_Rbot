@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🎭 ⭕️ FOR YOUR QUERY, CONTACT ME ⭕️', url="https://t.me/UFSChatBot"
+                                    '🎭⭕️ UPDATE CHANNEL ⭕️🎭', url="https://t.me/mlm_movies_update"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🎭 ⭕️ FOR YOUR QUERY, CONTACT ME ⭕️', url="https://t.me/UFSChatBot"
+                                    '🎭⭕️ UPDATE CHANNEL ⭕️🎭', url="https://t.me/mlm_movies_update"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🎭 ⭕️ FOR YOUR QUERY, CONTACT ME ⭕️', url="https://t.me/UFSChatBot"
+                                    '🎭⭕️ UPDATE CHANNEL ⭕️🎭', url="https://t.me/mlm_movies_update"
                                 )
                         ]
                     ]
@@ -89,10 +89,12 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/joinchat/TRlZZilyh-MVa66t'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://t.me/joinchat/YS-WlsUC9nFiOWM0')
+        InlineKeyboardButton('🔰 REQUESTING GROUP🔰', url='https://t.me/NEW_MLM_HD_MOVES'),
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/joinchat/YS-WlsUC9nFiOWM0')
+        InlineKeyboardButton('🔰CHANNEL 1🔰', url='https://t.me/mlm_movie_1'),
+        InlineKeyboardButton('🔰CHANNEL 2🔰', url='https://t.me/mlm_movie_2')
+    ],[
+        InlineKeyboardButton('🔰UPDATE CHANNEL🔰', url='https://t.me/mlm_movies_update')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
