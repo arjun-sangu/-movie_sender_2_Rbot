@@ -50,7 +50,7 @@ For More Details Click Help Button Below..
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Advanced Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/lnc3f3r">LuCifer</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/mrplantozz">MR:PLANTOZZ</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
