@@ -1642,6 +1642,7 @@ async def callback_data(bot, update: CallbackQuery):
             InlineKeyboardButton('🔰REQESTING CHANNEL🔰', url='https://t.me/NEW_MLM_HD_MOVES'),
         ],[
             InlineKeyboardButton('🔰CHANNEL 1🔰', url ='https://t.me/mlm_movie_1')
+        ],[
             InlineKeyboardButton('🔰CHANNEL 2🔰', url ='https://t.me/mlm_movie_2')
         ],[
             InlineKeyboardButton('🔰UPDATE CHANNEL🔰', url ='https://t.me/mlm_movies_update')
