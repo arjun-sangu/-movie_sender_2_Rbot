@@ -1639,10 +1639,12 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/joinchat/YS-WlsUC9nFiOWM0'),
-            InlineKeyboardButton('Source Code 🧾', url ='https://t.me/joinchat/YS-WlsUC9nFiOWM0')
+            InlineKeyboardButton('🔰REQESTING CHANNEL🔰', url='https://t.me/NEW_MLM_HD_MOVES'),
         ],[
-            InlineKeyboardButton('Support 🛠', url='https://t.me/joinchat/YS-WlsUC9nFiOWM0')
+            InlineKeyboardButton('🔰CHANNEL 1🔰', url ='https://t.me/mlm_movie_1')
+            InlineKeyboardButton('🔰CHANNEL 2🔰', url ='https://t.me/mlm_movie_2')
+        ],[
+            InlineKeyboardButton('🔰UPDATE CHANNEL🔰', url='https://t.me/mlm_movies_update')
         ],[
             InlineKeyboardButton('Help ⚙', callback_data="help")
         ]]
