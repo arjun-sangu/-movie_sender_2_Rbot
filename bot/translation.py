@@ -8,11 +8,10 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-Only For <b><u><a href="https://t.me/joinchat/TRlZZilyh-MVa66t">Universal Film Studio Group</a></u></b>
+എന്നെ <b><u><a href="https://t.me/NEW_MLM_HD_MOVES">NEW MALAYALAM HD MOVIES</a></u></b> ഗ്രൂപ്പിൽ മാത്രേ ഉപയോഗിക്കാൻ പറ്റൂ..😝
 
-For More Details Click Help Button Below..
-
-<b><u><a href="https://t.me/joinchat/YS-WlsUC9nFiOWM0">UFS Bot Support Group</a></u></b>
+പുതിയ UPLOADING UPDATE ലഭിക്കുവാനായി താഴെ കാണുന്ന UPDATE ചാനെലിൽ ജോയിൻ ചെയ്യുക..
+<b><u><a href="https://t.me/mlm_movies_update">UPDATE CHANNEL</a></u></b>
 </i>"""    
     
     HELP_TEXT = """
